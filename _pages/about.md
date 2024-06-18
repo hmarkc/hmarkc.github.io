@@ -18,7 +18,7 @@ My current research interests include:
 # Education
 
 - Ph.D in Computing Research, Imperial College London, 2024 - 2028 (expected)
-- MEng in Computing (Artificial Intelligence and Machine Learning), Imperial College London, 2020 - 2024
+- MEng in Computing, Imperial College London, 2020 - 2024
 
 # Work experience
 
