@@ -6,7 +6,7 @@ link: https://www.qube-rt.com/
 venue: "Qube RT"
 date: Apr 2023 - Sep 2023
 location: "London, UK"
-citation: "Quantative Technologist Intern, Apr 2023 - Sep 2023, Shanghai, London, UK"
+citation: "Quantative Technologist Intern, Apr 2023 - Sep 2023, London, UK"
 ---
 
 - Developed a C++ monitoring system for thread pool performance, utilizing the blink protocol for data

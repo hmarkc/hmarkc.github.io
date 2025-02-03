@@ -6,7 +6,7 @@ link: https://www.huawei.com/uk/
 venue: "Huawei Technologies Research & Development"
 date: Mar 2022 - Sep 2022
 location: "London, UK"
-citation: "Graphics Modelling Intern, Mar 2022 - Sep 2022, Shanghai, London, UK"
+citation: "Graphics Modelling Intern, Mar 2022 - Sep 2022, London, UK"
 ---
 
 - Built an application using Jinja template engine to deserialize specification in xml and json format to
