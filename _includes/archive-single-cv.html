@@ -42,7 +42,7 @@
       {% if post.venue %}
         <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
       {% else %}
-        Manuscript
+        Manuscript.
       {% endif %}
       <p>{{ post.authors}}</p>
     {% endif %}

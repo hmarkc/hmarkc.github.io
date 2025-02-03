@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year MEng student at [Imperial College London](https://www.imperial.ac.uk/). I spent a wonderful summer in 2022 doing a research project at Imperial College London, advised by Prof. [Wayne Luk](https://www.imperial.ac.uk/people/w.luk) and Dr. [Hongxiang Fan](https://os-hxfan.github.io).
+I am a first-year PhD student at [Imperial College London](https://www.imperial.ac.uk/), advised by Prof. [Wayne Luk](https://www.imperial.ac.uk/people/w.luk) and Dr. [Hongxiang Fan](https://os-hxfan.github.io). I am a recipient of the [President's PhD scholarship](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/) from Imperial College London.
 
 My current research interests include:
 
-- AI Infrastructure
-- Hardware Design Method
-- Trustworthy ML
+- Efficient LLM.
+- LLM for EDA.
 
 # Education
 
