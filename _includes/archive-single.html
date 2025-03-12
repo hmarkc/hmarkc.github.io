@@ -25,14 +25,18 @@
           alt="">
       </div>
     {% endif %}
-
-    <h2 class="archive__item-title" itemprop="headline">
-      {% if post.link %}
-        <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
-      {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
-      {% endif %}
-    </h2>
+    
+    {% if post.collection == 'publications' %}
+      <h2><strong>{{ title }}</strong></h2>
+    {% else %}
+      <h2 class="archive__item-title" itemprop="headline">
+        {% if post.link %}
+          <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+          <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {% endif %}
+      </h2>
+    {% endif %}
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -58,18 +62,18 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %} -->
     
-    {% if post.authors and post.paperurl and post.slidesurl %}
-      <p>{{ post.authors }}<br /><a href="{{ post.paperurl }}">Download</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
+    {% if post.authors and post.paperurl and post.codeurl %}
+      <p>{{ post.authors }}<br />[<a href="{{ post.paperurl }}">Paper</a>] [<a href="{{ post.codeurl }}">Code</a>]</p>
     {% elsif post.authors and post.paperurl %}
-      <p>{{ post.authors }}<br /><a href="{{ post.paperurl }}">Download</a></p>
-    {% elsif post.authors and post.slidesurl %}
-      <p>{{ post.authors }}<br /><a href="{{ post.slidesurl }}">Download Slides</a></p>
+      <p>{{ post.authors }}<br />[<a href="{{ post.paperurl }}">Paper</a>]</p>
+    {% elsif post.authors and post.codeurl %}
+      <p>{{ post.authors }}<br />[<a href="{{ post.codeurl }}">Code</a>]</p>
     {% elsif post.authors %}
       <p>{{ post.authors }}</p>
     {% elsif post.paperurl %}
-      <p><a href=" {{ post.paperurl }} ">Download</a></p>
-    {% elsif post.slidesurl %}
-      <p>Download <a href="{{ post.slidesurl }}">Download Slides</a></p></p>
+      <p>[<a href=" {{ post.paperurl }} ">Paper</a>]</p>
+    {% elsif post.codeurl %}
+      <p>[<a href="{{ post.codeurl }}">Code</a>]</p></p>
     {% endif %}
 
   </article>

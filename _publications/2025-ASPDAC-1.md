@@ -3,7 +3,7 @@ title: "Exploring Code Language Models for Automated HLS-based Hardware Generati
 collection: publications
 date: 2025-01-01
 venue: "Asia and South Pacific Design Automation Conference (ASP-DAC)"
-paperurl: "https://arxiv.org/abs/2405.18628"
+paperurl: "https://arxiv.org/abs/2502.13921"
 authors: "Jiahao Gai, <b>Hao (Mark) Chen</b>, Zhican Wang, Hongyu Zhou,
 Wanru Zhao, Nicholas Lane, Hongxiang Fan"
 citation: "Jiahao Gai, <b>Hao (Mark) Chen</b>, Zhican Wang, Hongyu Zhou,

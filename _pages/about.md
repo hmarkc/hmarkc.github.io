@@ -14,35 +14,17 @@ My current research interests include:
 - Efficient LLM.
 - LLM for EDA.
 
+<br>
+
 # Education
 
 - Ph.D in Computing Research, Imperial College London, 2024 - 2028 (expected)
 - MEng in Computing, Imperial College London, 2020 - 2024
 
-# Work experience
+<br>
 
-  <ul>{% for post in site.work reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Selected Publications
 
-# Publications
-
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+{% for post in site.publications reversed %}
+{% include archive-single-cv.html %}
+{% endfor %}
