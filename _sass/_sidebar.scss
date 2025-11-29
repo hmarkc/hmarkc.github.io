@@ -268,3 +268,33 @@
     display: none;
   }
 }
+
+/*
+   Visitor Map
+   ========================================================================== */
+
+.visitor-map {
+  margin-top: 1em;
+  text-align: center;
+}
+
+/* Desktop: show in sidebar, hide mobile version */
+.visitor-map--desktop {
+  display: none;
+  
+  @include breakpoint($large) {
+    display: block;
+  }
+}
+
+/* Mobile: show at bottom of page, hide on desktop */
+.visitor-map--mobile {
+  display: block;
+  padding: 1em;
+  margin: 2em auto;
+  max-width: 400px;
+  
+  @include breakpoint($large) {
+    display: none;
+  }
+}
