@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student at [Imperial College London](https://www.imperial.ac.uk/), advised by Prof. [Wayne Luk](https://www.imperial.ac.uk/people/w.luk) and Dr. [Hongxiang Fan](https://os-hxfan.github.io). I hold the [President's PhD Scholarship](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/) and previously completed both my Bachelor's and Master's degrees here.
+I am a second-year PhD student at [Imperial College London](https://www.imperial.ac.uk/), advised by Prof. [Wayne Luk](https://www.imperial.ac.uk/people/w.luk) and Dr. [Hongxiang Fan](https://os-hxfan.github.io). I hold the [President's PhD Scholarship](https://www.imperial.ac.uk/study/fees-and-funding/postgraduate-doctoral/grants-scholarships/presidents-phd/) and previously completed both my Bachelor's and Master's degrees here. For more details, please see my [CV](files/research_CV.pdf).
 
 My research focuses on democratizing AI through efficient ML algorithms (e.g., LLM quantization, speculative decoding, model merging, expert skipping) and systems (e.g., memory management, request scheduling, heterogeneous computing).
 
