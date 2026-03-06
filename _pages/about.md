@@ -23,6 +23,8 @@ My research focuses on democratizing AI through efficient ML algorithms (e.g., L
 
 
 # 🔥 News
+- *2026.03*: &nbsp;📖📖 Named as Microsoft Research Fellow for the research challenge "Steering reasoning models with test-time verification".
+- *2026.01*: &nbsp;🎉🎉 [AdaBlock-dLLM](https://arxiv.org/pdf/2509.26432), our work on automated block size optimization for diffusion language models, was accepted to ICLR 2026!
 - *2025.11*: &nbsp;🎉🎉 [FastTTS](https://arxiv.org/pdf/2509.00195), our work on fast test-time scaling for edge devices, was accepted to ASPLOS 2026!
 - *2025.09*: &nbsp;🎉🎉 Our [paper](https://arxiv.org/pdf/2505.11730) on optimal verification granularity for test-time scaling was accepted to NeurIPS 2025!
 - *2025.08*: &nbsp;🎉🎉 [PPD](https://arxiv.org/pdf/2405.18628), our edge-friendly speculative decoding method, was accepted to EMNLP 2025!
@@ -108,6 +110,7 @@ My research focuses on democratizing AI through efficient ML algorithms (e.g., L
 
 
 # 🎖 Honors and Awards
+- *2026* Microsoft Research Fellow, co-named with supervisor, research challenge: "Steering reasoning models with test-time verification"
 - *2024* President's PhD Scholarship, Imperial College London
 - *2024* Governors' MEng Prize in Computing (best overall performance in MEng programme), Imperial College London
 - *2024* Winton Capital Applied Undergraduate Project Computing Prize, Imperial College London
