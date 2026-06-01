@@ -131,7 +131,6 @@ My research focuses on democratizing AI through efficient ML algorithms (e.g., L
 - *2025.07 - 2025.12*, **Samsung AI Center**, Research Intern. Worked on efficient diffusion language model.
 - *2024.07 - 2024.12*, **Samsung AI Center**, Research Intern. Worked on efficient LLM inference involving quantization, leading to a publication at ICLR 2025.
 - *2023.04 - 2023.09*, **Qube RT**, Quantitative Technologist Intern. Developed C++ performance monitoring system for low-latency trading platform.
-<!-- - *2022.03 - 2022.09*, **Huawei Technologies R&D**, Graphics Modelling Intern. Worked on automatic GPU API generation. -->
 - *2021.06 - 2021.09*, **Ampere Computing**, Java Software Developer. Developed a log search engine for Jenkins based on Lucene Search.
 
 
