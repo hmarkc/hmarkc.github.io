@@ -24,6 +24,7 @@ My research focuses on democratizing AI through efficient ML algorithms (e.g., L
 
 # 🔥 News
 - *2026.09*: &nbsp;🎉🎉 [DES](https://arxiv.org/abs/2602.00879), our work on dynamic expert sharing for Mixture-of-Experts diffusion LLMs, was accepted to NeurIPS 2026!
+- *2026.08*: &nbsp;💼💼 Started a Research Internship at **ByteDance** in San Jose, working on LLM-driven serving optimizations.
 - *2026.03*: &nbsp;📖📖 Named as Microsoft Research Fellow for the research challenge "Steering reasoning models with test-time verification".
 - *2026.01*: &nbsp;🎉🎉 [AdaBlock-dLLM](https://arxiv.org/pdf/2509.26432), our work on automated block size optimization for diffusion language models, was accepted to ICLR 2026!
 - *2025.11*: &nbsp;🎉🎉 [FastTTS](https://arxiv.org/pdf/2509.00195), our work on fast test-time scaling for edge devices, was accepted to ASPLOS 2026!
@@ -142,6 +143,7 @@ My research focuses on democratizing AI through efficient ML algorithms (e.g., L
 
 
 # 💼 Industry Experience
+- *2026.08 - 2026.12*, **ByteDance**, San Jose, Research Intern. Worked on LLM-driven serving optimizations.
 - *2025.07 - 2025.12*, **Samsung AI Center**, Research Intern. Worked on efficient diffusion language model.
 - *2024.07 - 2024.12*, **Samsung AI Center**, Research Intern. Worked on efficient LLM inference involving quantization, leading to a publication at ICLR 2025.
 - *2023.04 - 2023.09*, **Qube RT**, Quantitative Technologist Intern. Developed C++ performance monitoring system for low-latency trading platform.
